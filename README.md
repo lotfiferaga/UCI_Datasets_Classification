@@ -18,4 +18,4 @@ The classification task involves predicting the localization site of the protein
 The Malware Detection dataset comprises features extracted from API call sequences of Windows executable files.
 Each sample is labeled as either malware or benign.
 Features include frequency counts of different API calls and statistical properties of the API call sequences.# UCI_Datasets_Classification
-SVM Classifier applied on Iris dataset, ecoli dataset and malware detection dataset
+SVM Classifier applied on Iris dataset, ecoli dataset and malware detection dataset.
